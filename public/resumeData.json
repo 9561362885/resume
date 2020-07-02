@@ -17,7 +17,7 @@
       "pin": "440023"
     },
     "website": "http://www.ashishpatil.xyz",
-    "resumedownload":"https://drive.google.com/file/d/1woJ96vVo9x6hA0-I7mlFEf-4xUuxnlEd/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1Dnf2pRtpkHknU_eEHfO2gpQ2eFnCmBay/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -172,7 +172,7 @@
         "title":"Resume",
         "category":"A React based resume website template.",
         "image":"resume.jpg",
-        "url":"http://www.ashishpatil.xyz"
+        "url":"https://ashishdev.netlify.app/"
       }
     ]
   },
