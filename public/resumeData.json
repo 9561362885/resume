@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Ashish Patil",
-    "occupation": "Front-End Developer",
-    "description": " currently doing Internship at ",
-    "employer": "The TechIntern",
+    "occupation": "UI Developer and HubSpot CMS Developer",
+    "description": " currently working at ",
+    "employer": "iOSys Software India (P) Limited",
     "jobDescription": "clean code and pixel perfect design. I also make website more & more interactive with web animations",
     "image": "profile_pic.jpg",
     "bio": "I am a Front-end Developer with few months of professional experience. I build successful websites and web-apps that are fast, easy to use, and coded with the same eye for detail as a designer. I started coding from the August 2019 after completing my engineering. I have serious passion for modern looking websites with a little bit of animations. I use the modern frameworks such as React to design the website you want. I will write the code and get it perfect until you have the exact website you want ! If you have an application idea in mind and looking for a front-end developer to create magic and to convert your idea into a beautiful website then you are at the right place.",
@@ -16,7 +16,7 @@
       "state": "Maharashtra",
       "pin": "440023"
     },
-    "website": "http://www.ashishpatil.xyz",
+    "website": "https://ashishdev.netlify.app/",
     "resumedownload": "https://drive.google.com/file/d/1bSEm86g645G3yZBr-w0CUEZCbmW-Qsjo/view?usp=sharing",
     "social": [
       {
@@ -67,9 +67,15 @@
     ],
     "work": [
       {
+        "company": "iOSys Software India (P) Ltd.",
+        "title": "UI Developer & HubSpot CMS Developer",
+        "years": "August 2020 - Present",
+        "description": "At iOSys I am working as a UI developer as well as HubSpot CMS Developer where i am providing clean theme and templates to the clients with better Visuals, Animations with Pixel Perfection."
+      },
+      {
         "company": "The TechIntern",
         "title": "Front-End Developer",
-        "years": "March 2020 - Present",
+        "years": "March 2020 - July 2020",
         "description": "I am learning how to provide clean code and pixel perfect design. I am trying to make website more & more interactive with web animations."
       },
       {
